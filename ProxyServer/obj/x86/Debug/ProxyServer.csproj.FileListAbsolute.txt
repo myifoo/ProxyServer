@@ -1,0 +1,8 @@
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\obj\x86\Debug\ProxyServer.csprojResolveAssemblyReference.cache
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Debug\Newtonsoft.Json.dll
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Debug\PHDAPINET.dll
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\obj\x86\Debug\ProxyServer.exe
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\obj\x86\Debug\ProxyServer.pdb

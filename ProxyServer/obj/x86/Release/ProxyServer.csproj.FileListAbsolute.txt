@@ -1,0 +1,7 @@
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Release\ProxyServer.exe.config
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Release\ProxyServer.exe
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Release\ProxyServer.pdb
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Release\Newtonsoft.Json.dll
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\bin\Release\PHDAPINET.dll
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\obj\x86\Release\ProxyServer.exe
+F:\github-myi-repository\csharp\ProxyServer\ProxyServer\obj\x86\Release\ProxyServer.pdb
